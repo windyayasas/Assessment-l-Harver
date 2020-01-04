@@ -3,10 +3,10 @@ Harver js Assigment
 
 Please do NPM install
 
-Included following thirtparty libraries \n
-1 word-maker\n
-2 fs\n
-3 axios\n
+Included following thirtparty libraries <br />
+1 word-maker<br />
+2 fs<br />
+3 axios<br />
 
 I have done both Node and Frontend exercises.
 
