@@ -1,7 +1,7 @@
 Harver js Assigment 
 ============================
 
-Please do NPM install
+Please do a NPM install
 
 Included following thirtparty libraries <br />
 1 word-maker<br />
